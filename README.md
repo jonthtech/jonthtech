@@ -13,7 +13,9 @@ Me apasiona construir soluciones tecnológicas que faciliten la vida de las pers
 
 * **Aprendiendo actualmente:** HTML5 (Estructura web avanzada) y Python desde 0.
 * **Habilidades en formación:** Diseño de bases de datos y diagramación UML.
-
+## 📜 Certificaciones
+* **Curso de Iniciación al Desarrollo con IA** - BIG school | 2025 ![IA](https://img.shields.io/badge/AI-Iniciación-blueviolet?style=flat-square&logo=openai)
+  * *Enfoque:* Uso de herramientas de IA para optimizar el flujo de trabajo en desarrollo de software.
 ---
 
 ## 📈 Proyecto Principal: ZION JM4
