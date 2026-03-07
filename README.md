@@ -51,7 +51,7 @@ He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el r
 ## 📊 Estadísticas de Contribución
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de jonthtech" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonthtech&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
