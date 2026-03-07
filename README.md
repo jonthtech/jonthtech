@@ -1,24 +1,27 @@
-# Mis Certificaciones y Logros Académicos 📜
+# ¡Hola! Soy Jonathan Jose Mujica 👋 (@jonthtech)
 
-Este repositorio centraliza mi formación continua y mi experiencia como instructor en el área tecnológica.
+### 🚀 Estudiante de Desarrollo de Software | Instructor de Tecnología
+Me apasiona construir soluciones tecnológicas y compartir el conocimiento. Actualmente, curso mi carrera con la meta de dominar el desarrollo backend para el 2026.
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+* **Aprendiendo actualmente:** HTML5 (Estructura web avanzada) y Python desde 0.
+* **Habilidades en formación:** Diseño de bases de datos, diagramación UML y herramientas administrativas.
 
 ---
 
-## 🤖 Inteligencia Artificial
-* **Curso de Iniciación al Desarrollo con IA** (2025) - BIG school.
-  * [Ver Certificado](./Certificado-IA-BIGschool.jpeg)
-
-## 👨‍🏫 Experiencia como Instructor (IABIM - Miranda)
-He tenido el honor de impartir talleres de capacitación en la Biblioteca "Epoima" de Carrizal, Venezuela.
-
-* **Programación de Páginas Web**
-  * [Ver Certificado](./web.jpeg)
-* **Aplicaciones Administrativas de Excel**
-  * [Ver Certificado](./EXCEL.jpeg)
-* **Diseño Gráfico con Canva**
-  * [Ver Certificado](./CANVA.jpeg)
-* **Diseño Gráfico para Redes Sociales**
-  * [Ver Certificado](./RRSS.jpeg)
+## 📈 Proyecto Principal: ZION JM4
+Estoy desarrollando un **Sistema Web de Control de Clientes y Pólizas** para una empresa de seguros.
+* **Objetivo:** Automatizar la gestión de datos y mejorar la eficiencia en el manejo de seguros.
+* **Tecnologías:** Estructura en HTML y lógica enfocada en Python.
 
 ---
-*En constante aprendizaje para dominar el desarrollo de software.*
+
+## 📜 Certificaciones Destacadas
+* **Instructor de Programación Web** - IABIM (Biblioteca "Epoima").
+* **Desarrollo con IA** - BIG school (Brais Moure & Romuald Fons).
