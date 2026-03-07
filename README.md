@@ -1,40 +1,24 @@
-# ¡Hola! Soy Jonathan Mujica 👋 (@jonthtech)
+# Mis Certificaciones y Logros Académicos 📜
 
-### 🚀 Estudiante de Desarrollo de Software
-Me apasiona construir soluciones tecnológicas que faciliten la vida de las personas. Actualmente, estoy enfocado en dominar las bases del desarrollo web y la lógica de programación.
-
----
-
-## 🛠️ Mi Stack Tecnológico
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-* **Instagram:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
-
-* **Aprendiendo actualmente:** HTML5 (Estructura web avanzada) y Python desde 0.
-* **Habilidades en formación:** Diseño de bases de datos y diagramación UML.
-
- ## 📜 Mis Logros y Certificaciones
-* **[Curso de Iniciación al Desarrollo con IA](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)** - BIG school | 2025
-  * *Enfoque:* Optimización de flujos de trabajo con IA, avalado por Brais Moure y Romuald Fons.
-  * ## 📜 Certificaciones y Experiencia
-* **Taller de Capacitación en Programación de Páginas Web** (Instructor) - IABIM | 2025
-* **Capacitación en Diseño Gráfico para RRSS y Canva** (Instructor) - IABIM | 2025
-* **Capacitación en Aplicaciones Administrativas de Excel** (Instructor) - IABIM | 2025
----
-
-## 📈 Proyecto Principal: ZION JM4
-Estoy desarrollando un **Sistema Web de Control de Clientes y Pólizas** para una empresa de seguros.
-* **Objetivo:** Automatizar la gestión de datos y mejorar la eficiencia en el manejo de seguros.
-* **Tecnologías:** HTML para la interfaz y lógica enfocada en Python.
+Este repositorio centraliza mi formación continua y mi experiencia como instructor en el área tecnológica.
 
 ---
 
-## 📫 Conectemos:
-* **Ubicación:** Los Teques, Venezuela 🇻🇪
-* **Meta 2026:** Finalizar mi proyecto de grado y dominar el desarrollo backend con Python.
+## 🤖 Inteligencia Artificial
+* **Curso de Iniciación al Desarrollo con IA** (2025) - BIG school.
+  * [Ver Certificado](./Certificado-IA-BIGschool.jpeg)
+
+## 👨‍🏫 Experiencia como Instructor (IABIM - Miranda)
+He tenido el honor de impartir talleres de capacitación en la Biblioteca "Epoima" de Carrizal, Venezuela.
+
+* **Programación de Páginas Web**
+  * [Ver Certificado](./web.jpeg)
+* **Aplicaciones Administrativas de Excel**
+  * [Ver Certificado](./EXCEL.jpeg)
+* **Diseño Gráfico con Canva**
+  * [Ver Certificado](./CANVA.jpeg)
+* **Diseño Gráfico para Redes Sociales**
+  * [Ver Certificado](./RRSS.jpeg)
 
 ---
-*"El éxito no es el final, el fracaso no es fatal: lo que cuenta es el valor para continuar."*
-
-
+*En constante aprendizaje para dominar el desarrollo de software.*
