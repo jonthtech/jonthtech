@@ -1,66 +1,38 @@
-# ¡Hola! Soy Jonathan Jose Mujica 👋 (@jonthtech)
+# ¡Hola! Soy Jonathan Mujica (jonthtech) 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonthtech&label=Perfil%20Visto&color=2196f3&style=flat-square" alt="jonthtech" />
-</p>
+### 👨‍💻 Desarrollador en formación | Apasionado por las Bases de Datos y el Backend
 
-### 🚀 Desarrollador de Software en Formación | Especialista en Capacitación Tecnológica
-Cuento con experiencia comprobada como instructor técnico, facilitando el aprendizaje de herramientas digitales y programación. Mi enfoque actual es el desarrollo de soluciones robustas para el sector financiero y de seguros, con la meta de dominar el ecosistema Backend para 2026.
+Actualmente soy estudiante en la **UPTAMCA** (Universidad Politécnica Territorial de los Altos Mirandinos "Cecilio Acosta"), enfocado en dominar el ecosistema del desarrollo web y la gestión de datos.
 
 ---
 
-## 🛠️ Stack Tecnológico & Aptitudes
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+## 🚀 Proyectos Actuales
+- 🛡️ **ZION JM4:** Desarrollando un sistema web integral para la gestión de pólizas de seguros.
+- 📊 **Educación:** Dictando clases online sobre **Bases de Datos** a un grupo de 20 estudiantes.
+- 🐍 **Python & Web:** Perfeccionando mis habilidades en Python, HTML5 y CSS3.
+
+---
+
+## 🛠️ Stack Tecnológico
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-* **Desarrollo Web:** Maquetación semántica con HTML5 y lógica de programación en Python.
-* **Ingeniería de Software:** Modelado de sistemas mediante diagramación UML y diseño de bases de datos relacionales.
-* **IA & Automatización:** Implementación de herramientas de Inteligencia Artificial para la optimización de flujos de trabajo.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📈 Proyecto Destacado: Sistema ZION JM4
-Lidero el desarrollo de un **Sistema Web de Control de Clientes y Pólizas** para la empresa de seguros ZION JM4.
-* **Impacto:** Digitalización de procesos manuales para mejorar la eficiencia operativa en la gestión de pólizas.
-* **Estado:** Fase de maquetación en HTML5 e implementación de lógica inicial en Python.
+## 🌐 Conéctate conmigo
+Me gusta colaborar y compartir conocimiento. Puedes encontrarme en:
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jonthtech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonthtech)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-link-de-servidor)
 
 ---
 
-## 📜 Trayectoria Académica & Certificaciones (Click para ver)
-He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el respaldo del IABIM y la Gobernación de Miranda:
-
-* **Programación de Páginas Web (Instructor)**
-    * [![Certificado Web](https://img.shields.io/badge/Certificado-Web-orange?style=flat-square&logo=html5)](https://github.com/jonthtech/Certificaciones/blob/main/web.jpeg)
-* **Iniciación al Desarrollo con IA** (BIG school - Brais Moure)
-    * [![Certificado IA](https://img.shields.io/badge/Certificado-IA-blueviolet?style=flat-square&logo=openai)](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)
-* **Capacitador en Herramientas Administrativas (Excel & Canva)**
-    * [![Certificado Excel](https://img.shields.io/badge/Excel-Expert-green?style=flat-square&logo=microsoft-excel)](https://github.com/jonthtech/Certificaciones/blob/main/EXCEL.jpeg)
-    * [![Certificado Canva](https://img.shields.io/badge/Diseño-Canva-blue?style=flat-square&logo=canva)](https://github.com/jonthtech/Certificaciones/blob/main/CANVA.jpeg)
-    * [![Certificado RRSS](https://img.shields.io/badge/Certificado-RRSS-pink?style=flat-square&logo=instagram)](https://github.com/jonthtech/Certificaciones/blob/main/RRSS.jpeg)
+### 📈 Estadísticas de GitHub
+![Estadísticas de jonthtech](https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonthtech&layout=compact&theme=tokyonight)
 
 ---
-
----
-
-## 💳 Métodos de Pago y Soporte
-Para la contratación de servicios de **Hosting y Dominios**, acepto pagos a través de:
-
-* **Airtm:** [![Airtm](https://img.shields.io/badge/Airtm-24c1ad?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
-* **Ubicación:** Los Teques, Venezuela 🇻🇪
-
----
-
-## 📫 Conectemos:
-* **Instagram:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
-* **Discord:** [![jonthtech](https://img.shields.io/badge/jonthtech-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jonthtech)
-
-## 📊 Estadísticas de Contribución
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de jonthtech" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonthtech&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-*“El código limpio siempre parece que fue escrito por alguien a quien le importa.”*
+*"El código es como el humor; si tienes que explicarlo, es malo."*
