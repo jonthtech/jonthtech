@@ -41,12 +41,19 @@ He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el r
 
 ---
 
-## 📫 Conectemos:
-* **📍 Ubicación:** Los Teques, Venezuela 🇻🇪
-* **📸 Instagram Profesional:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
-* **💬 Discord:** [![jonthtech](https://img.shields.io/badge/jonthtech-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jonthtech)
+---
+
+## 💳 Métodos de Pago y Soporte
+Para la contratación de servicios de **Hosting y Dominios**, acepto pagos a través de:
+
+* **Airtm:** [![Airtm](https://img.shields.io/badge/Airtm-24c1ad?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
+* **Ubicación:** Los Teques, Venezuela 🇻🇪
 
 ---
+
+## 📫 Conectemos:
+* **Instagram:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
+* **Discord:** [![jonthtech](https://img.shields.io/badge/jonthtech-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jonthtech)
 
 ## 📊 Estadísticas de Contribución
 <p align="center">
