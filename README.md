@@ -14,9 +14,9 @@ Me apasiona construir soluciones tecnológicas que faciliten la vida de las pers
 * **Aprendiendo actualmente:** HTML5 (Estructura web avanzada) y Python desde 0.
 * **Habilidades en formación:** Diseño de bases de datos y diagramación UML.
 
-  * ## 📜 Mis Logros y Certificaciones
-* **[Curso de Iniciación al Desarrollo con IA](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.png)** - BIG school | 2025
-  * *Enfoque:* Optimización de flujos de trabajo con IA (con el respaldo de Brais Moure y Romuald Fons).
+ ## 📜 Mis Logros y Certificaciones
+* **[Curso de Iniciación al Desarrollo con IA](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool)** - BIG school | 2025
+  * *Enfoque:* Optimización de flujos de trabajo con IA, avalado por Brais Moure y Romuald Fons.
 ---
 
 ## 📈 Proyecto Principal: ZION JM4
