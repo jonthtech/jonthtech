@@ -25,3 +25,13 @@ Estoy desarrollando un **Sistema Web de Control de Clientes y Pólizas** para un
 ## 📜 Certificaciones Destacadas
 * **Instructor de Programación Web** - IABIM (Biblioteca "Epoima").
 * **Desarrollo con IA** - BIG school (Brais Moure & Romuald Fons).
+* **Capacitador en Excel y Diseño Gráfico** - Gobernación de Miranda.
+
+---
+
+## 📫 Conectemos:
+* **Ubicación:** Los Teques, Venezuela 🇻🇪
+* **Instagram:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
+
+---
+*“El código limpio siempre parece que fue escrito por alguien a quien le importa.”*
