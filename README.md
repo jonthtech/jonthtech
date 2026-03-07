@@ -29,5 +29,4 @@ Estoy desarrollando un **Sistema Web de Control de Clientes y Pólizas** para un
 ---
 *"El éxito no es el final, el fracaso no es fatal: lo que cuenta es el valor para continuar."*
 
-### 📊 Mis estadísticas de aprendizaje
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=radical)
+
