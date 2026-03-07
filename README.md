@@ -17,6 +17,10 @@ Me apasiona construir soluciones tecnológicas que faciliten la vida de las pers
  ## 📜 Mis Logros y Certificaciones
 * **[Curso de Iniciación al Desarrollo con IA](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)** - BIG school | 2025
   * *Enfoque:* Optimización de flujos de trabajo con IA, avalado por Brais Moure y Romuald Fons.
+  * ## 📜 Certificaciones y Experiencia
+* **Taller de Capacitación en Programación de Páginas Web** (Instructor) - IABIM | 2025
+* **Capacitación en Diseño Gráfico para RRSS y Canva** (Instructor) - IABIM | 2025
+* **Capacitación en Aplicaciones Administrativas de Excel** (Instructor) - IABIM | 2025
 ---
 
 ## 📈 Proyecto Principal: ZION JM4
