@@ -23,7 +23,7 @@ Cuento con experiencia comprobada como instructor técnico, facilitando el apren
 ## 📈 Proyecto Destacado: Sistema ZION JM4
 Lidero el desarrollo de un **Sistema Web de Control de Clientes y Pólizas** para la empresa de seguros ZION JM4.
 * **Impacto:** Digitalización de procesos manuales para mejorar la eficiencia operativa en la gestión de pólizas.
-* **Tecnologías:** Backend en Python, Frontend en HTML5 y persistencia de datos en SQL.
+* **Estado:** Fase de maquetación en HTML5 e implementación de lógica inicial en Python.
 
 ---
 
@@ -37,16 +37,23 @@ He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el r
 * **Capacitador en Herramientas Administrativas (Excel & Canva)**
     * [![Certificado Excel](https://img.shields.io/badge/Excel-Expert-green?style=flat-square&logo=microsoft-excel)](https://github.com/jonthtech/Certificaciones/blob/main/EXCEL.jpeg)
     * [![Certificado Canva](https://img.shields.io/badge/Diseño-Canva-blue?style=flat-square&logo=canva)](https://github.com/jonthtech/Certificaciones/blob/main/CANVA.jpeg)
+    * [![Certificado RRSS](https://img.shields.io/badge/Certificado-RRSS-pink?style=flat-square&logo=instagram)](https://github.com/jonthtech/Certificaciones/blob/main/RRSS.jpeg)
 
 ---
 
 ## 📫 Conectemos:
-* **Ubicación:** Los Teques, Venezuela 🇻🇪
-* **Instagram Profesional:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
+* **📍 Ubicación:** Los Teques, Venezuela 🇻🇪
+* **📸 Instagram Profesional:** [![@jonthtech](https://img.shields.io/badge/@jonthtech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonthtech/)
+* **💬 Discord:** [![Discord](https://img.shields.io/badge/jonthtech-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jonthtech)
 
 ---
 
 ## 📊 Estadísticas de Contribución
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de jonthtech" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonthtech&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
+
+---
+*“El código limpio siempre parece que fue escrito por alguien a quien le importa.”*
