@@ -24,6 +24,18 @@ Desarrollador web en formación y estudiante de Informática en la **UPTAMCA**. 
 
 ---
 
+## 📜 Certificaciones y Trayectoria
+He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el respaldo del **IABIM** y la **Gobernación de Miranda**, además de continuar mi preparación profesional constante:
+
+* 🌐 **Programación de Páginas Web (Instructor):** [![Certificado Web](https://img.shields.io/badge/Ver_Certificado-F24E1E?style=flat-square&logo=html5&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/web.jpeg)
+* 🤖 **Iniciación al Desarrollo con IA** (BIG school - Brais Moure): [![Certificado IA](https://img.shields.io/badge/Ver_Certificado-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)
+* 📊 **Capacitador en Herramientas Administrativas:**
+  * [![Excel](https://img.shields.io/badge/Excel_Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/EXCEL.jpeg)
+  * [![Canva](https://img.shields.io/badge/Diseño_Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/CANVA.jpeg)
+  * [![RRSS](https://img.shields.io/badge/Gestión_RRSS-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/RRSS.jpeg)
+
+---
+
 ## 🌐 Servicios Profesionales
 Ofrezco soluciones integrales para la presencia digital de tu negocio o proyecto:
 * **Hosting y Dominios:** Asesoría, gestión y despliegue de infraestructura web profesional.
