@@ -1,49 +1,46 @@
-# ¡Hola! Soy Jonathan Jose Mujica 👋 (@jonthtech)
+# Jonathan Jose Mujica 👋 | @jonthtech
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonthtech&label=Perfil%20Visto&color=2196f3&style=flat-square" alt="jonthtech" />
-</p>
-
-### 🚀 Desarrollador de Software | Especialista en Capacitación Tecnológica
-Estudiante de Informática en la **UPTAMCA**. Mi enfoque actual es el desarrollo de soluciones robustas para el sector de seguros con el sistema **ZION JM4**.
+### 🚀 Desarrollador de Software | Especialista en Soluciones Web e Infraestructura
+Desarrollador web en formación y estudiante de Informática en la **UPTAMCA**. Especializado en la creación de interfaces modernas, lógica de programación aplicada y estructuración de bases de datos. Comprometido con la optimización de procesos mediante la tecnología.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-* **Desarrollo Web:** Maquetación con HTML5/CSS3 y lógica en Python.
-* **Infraestructura:** Gestión de Hosting y Dominios Profesionales.
-* **Educación:** Instructor de herramientas digitales y creación de páginas web.
-
----
-
-## 📜 Certificaciones & Trayectoria (Biblioteca "Epoima")
-Bajo el respaldo del IABIM y la Gobernación de Miranda:
-
-* **Programación Web (Instructor):** [Ver Certificado](https://github.com/jonthtech/Certificaciones/blob/main/web.jpeg)
-* **Iniciación al Desarrollo con IA:** (BIG school - Brais Moure) [Ver Certificado](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)
-* **Herramientas Administrativas:** Excel Expert, Canva y RRSS.
+* **Desarrollo Frontend & Backend:** Maquetación semántica en HTML/CSS y lógica estructurada en Python orientada a la eficiencia.
+* **Educación Tecnológica:** Instructor de desarrollo web, facilitando el aprendizaje de programación desde cero.
 
 ---
 
-## 💳 Métodos de Pago y Soporte
-Para servicios de **Hosting, Dominios** y consultoría web:
-
-* **Airtm:** [![Airtm](https://img.shields.io/badge/Airtm-24c1ad?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
-* **📍 Ubicación:** Los Teques, Venezuela 🇻🇪
+## 📈 Proyecto Principal
+* **Sistema ZION JM4:** Liderando el desarrollo integral de un sistema web para el control y gestión eficiente de clientes y pólizas de seguros. Digitalización de procesos manuales para maximizar la productividad operativa.
 
 ---
 
-## 📫 Conectemos:
-* **Telegram:** [Jonth Tech](https://t.me/jonthtech)
-* **Instagram:** [@jonthtech](https://www.instagram.com/jonthtech/)
-* **Discord:** [Comunidad Jonth Tech](https://discord.gg/MqSWudm5)
+## 🌐 Servicios Profesionales
+Ofrezco soluciones integrales para la presencia digital de tu negocio o proyecto:
+* **Hosting y Dominios:** Asesoría, gestión y despliegue de infraestructura web profesional.
+* **Pagos y Soporte:** [![Airtm](https://img.shields.io/badge/Airtm-00AEEF?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
+
+---
+
+## 📫 Conectemos
+📍 **Ubicación:** Los Teques, Venezuela 🇻🇪
+
+<p align="left">
+  <a href="https://t.me/jonthtech"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/jonthtech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/jonthtech"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=radical" alt="Estadísticas de jonthtech" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonthtech&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de jonthtech" />
 </p>
