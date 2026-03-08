@@ -54,6 +54,8 @@ Ofrezco soluciones integrales para la presencia digital de tu negocio o proyecto
 ## 📫 Conectemos
 📍 **Ubicación:** Los Teques, Venezuela 🇻🇪
 
+<a href="https://t.me/TU_BOT_AQUI"><img src="https://img.shields.io/badge/Asistente_Virtual_Bot-000000?style=for-the-badge&logo=android&logoColor=white" alt="Bot" /></a>
+
 <p align="left">
   <a href="https://t.me/+tFLpzHIiXhk4ZDYx"><img src="https://img.shields.io/badge/Canal_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/jonthtech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
