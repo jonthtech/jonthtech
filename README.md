@@ -1,5 +1,9 @@
 # Jonathan Jose Mujica 👋 | @jonthtech
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonthtech&label=Perfil%20Visto&color=26A5E4&style=flat-square" alt="Visitas al perfil de jonthtech" />
+</p>
+
 ### 🚀 Desarrollador de Software | Especialista en Soluciones Web e Infraestructura
 Desarrollador web en formación y estudiante de Informática en la **UPTAMCA**. Especializado en la creación de interfaces modernas, lógica de programación aplicada y estructuración de bases de datos. Comprometido con la optimización de procesos mediante la tecnología.
 
@@ -27,12 +31,13 @@ Desarrollador web en formación y estudiante de Informática en la **UPTAMCA**. 
 ## 📜 Certificaciones y Trayectoria
 He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el respaldo del **IABIM** y la **Gobernación de Miranda**, además de continuar mi preparación profesional constante:
 
-* 🌐 **Programación de Páginas Web (Instructor):** [![Certificado Web](https://img.shields.io/badge/Ver_Certificado-F24E1E?style=flat-square&logo=html5&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/web.jpeg)
-* 🤖 **Iniciación al Desarrollo con IA** (BIG school - Brais Moure): [![Certificado IA](https://img.shields.io/badge/Ver_Certificado-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)
+* 🌐 **Programación de Páginas Web:** [![Certificado Web](https://img.shields.io/badge/Certificado-Instructor_Web-F24E1E?style=flat-square&logo=html5&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/web.jpeg)
+* 🤖 **Iniciación al Desarrollo con IA** (BIG school - Brais Moure): 
+  [![Certificado IA](https://img.shields.io/badge/Certificado-IA_BIGschool-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/Certificado-IA-BIGschool.jpeg)
 * 📊 **Capacitador en Herramientas Administrativas:**
-  * [![Excel](https://img.shields.io/badge/Excel_Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/EXCEL.jpeg)
-  * [![Canva](https://img.shields.io/badge/Diseño_Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/CANVA.jpeg)
-  * [![RRSS](https://img.shields.io/badge/Gestión_RRSS-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/RRSS.jpeg)
+  * [![Excel](https://img.shields.io/badge/Certificado-Excel_Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/EXCEL.jpeg)
+  * [![Canva](https://img.shields.io/badge/Certificado-Diseño_Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/CANVA.jpeg)
+  * [![RRSS](https://img.shields.io/badge/Certificado-Gestión_RRSS-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://github.com/jonthtech/Certificaciones/blob/main/RRSS.jpeg)
 
 ---
 
