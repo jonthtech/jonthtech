@@ -41,10 +41,12 @@ He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el r
 
 ---
 
-## 🌐 Servicios Profesionales
+## 🌐 Servicios Profesionales y Apoyo
 Ofrezco soluciones integrales para la presencia digital de tu negocio o proyecto:
 * **Hosting y Dominios:** Asesoría, gestión y despliegue de infraestructura web profesional.
-* **Pagos y Soporte:** [![Airtm](https://img.shields.io/badge/Airtm-00AEEF?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
+* **Pagos:** Acepto transferencias a través de Airtm.
+* 🎁 **Apoya mi contenido:** ¿Aún no tienes cuenta en Airtm? Regístrate usando mi enlace de referido y ayúdame a seguir creando recursos gratuitos para la comunidad:
+  <br>[![Únete a Airtm](https://img.shields.io/badge/Crear_Cuenta_Airtm-00AEEF?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
 
 ---
 
