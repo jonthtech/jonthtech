@@ -45,7 +45,8 @@ He impartido formación técnica en la Biblioteca "Epoima" de Carrizal bajo el r
 Ofrezco soluciones integrales para la presencia digital de tu negocio o proyecto:
 * **Hosting y Dominios:** Asesoría, gestión y despliegue de infraestructura web profesional.
 * **Pagos:** Acepto transferencias a través de Airtm.
-* 🎁 **Apoya mi contenido:** ¿Aún no tienes cuenta en Airtm? Regístrate usando mi enlace de referido y ayúdame a seguir creando recursos gratuitos para la comunidad:
+* 🎁 **Apoya mi contenido:** ¿Aún no tienes cuenta en Airtm? Regístrate usando mi enlace de referido y ayúdame a seguir creando recursos gratuitos para la comunidad.
+  *(💡 **Tip:** Haz `Ctrl + Clic` o presiona la rueda del ratón sobre el botón para abrirlo en una nueva pestaña sin salir de mi perfil).*
   <br>[![Únete a Airtm](https://img.shields.io/badge/Crear_Cuenta_Airtm-00AEEF?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/ivt/jonthm)
 
 ---
